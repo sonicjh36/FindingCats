@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FindingCats/static/css/main.2a5b1218.chunk.css",
+    "main.js": "/FindingCats/static/js/main.143ed4ec.chunk.js",
+    "main.js.map": "/FindingCats/static/js/main.143ed4ec.chunk.js.map",
+    "runtime-main.js": "/FindingCats/static/js/runtime-main.88492c6a.js",
+    "runtime-main.js.map": "/FindingCats/static/js/runtime-main.88492c6a.js.map",
+    "static/css/2.038644eb.chunk.css": "/FindingCats/static/css/2.038644eb.chunk.css",
+    "static/js/2.072f70f1.chunk.js": "/FindingCats/static/js/2.072f70f1.chunk.js",
+    "static/js/2.072f70f1.chunk.js.map": "/FindingCats/static/js/2.072f70f1.chunk.js.map",
+    "index.html": "/FindingCats/index.html",
+    "precache-manifest.5184d9a4c196c03fcff49a6fcfdf617b.js": "/FindingCats/precache-manifest.5184d9a4c196c03fcff49a6fcfdf617b.js",
+    "service-worker.js": "/FindingCats/service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "/FindingCats/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.2a5b1218.chunk.css.map": "/FindingCats/static/css/main.2a5b1218.chunk.css.map",
+    "static/js/2.072f70f1.chunk.js.LICENSE.txt": "/FindingCats/static/js/2.072f70f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FindingCats/static/media/BD_Cartoon_Shout.5cd9ce5b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88492c6a.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.072f70f1.chunk.js",
+    "static/css/main.2a5b1218.chunk.css",
+    "static/js/main.143ed4ec.chunk.js"
+  ]
+}
