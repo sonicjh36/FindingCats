@@ -1,4 +1,4 @@
-# robofriends
+# Finding Cats
 Tutorial for React
 To run the project:
 
