@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FindingCats/precache-manifest.5184d9a4c196c03fcff49a6fcfdf617b.js"
+  "/FindingCats/precache-manifest.25aae63c2c2e0f85e2fe6408b16ff89f.js"
 );
 
 self.addEventListener('message', (event) => {
